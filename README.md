@@ -1,2 +1,2 @@
 # selenium_celebrity
-Python crwaling using selenium
+Python crwaling code using selenium
