@@ -6,5 +6,5 @@ In case of Mac OS
 
 1. You need to give the location of Chrome driver.exe in 'driver = webdriver.Chrome()' of google.py
 2. You need to solve SSL problem -> just type the error on google
-3. Currently in google.py, Full Xpath of image is given to the code 'driver.find_element_by_xpath()', however you need to change it to Xpath.
+3. Currently in google.py, full XPath of image is given to the code 'driver.find_element_by_xpath()', however you need to change it to XPath.
 
